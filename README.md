@@ -14,7 +14,8 @@
 ###
 
 <h3 align="left">Web Development</h3>
-<br />
+<hr />
+
 ###
 
 <div align="left">
@@ -40,7 +41,8 @@
 ###
 
 <h3 align="left">Other Tech</h3>
-<br />
+<hr />
+
 ###
 
 <div align="left">

@@ -1,60 +1,68 @@
-<h2 align="left">Hi 👋! My name is Ash</h2>
+- 💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
 
-###
+- 🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
 
-<p align="left">I'm a front-end developer and 3D environment artist crafting interactive websites and immersive visuals.</p>
+- 👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
 
-###
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashdroidcmd" alt="ashdroidcmd" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashdroidcmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧱 Web Development
+<p align="left">
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645466/html_dit32q.png" alt="HTML" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645490/css_wetafm.png" alt="CSS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645467/js_qgtoxu.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1755781809/typescript_gx6ce7.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645477/react_wxsvsx.png" alt="React" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645486/sass_bygxe3.png" alt="SASS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645481/tailwind_bicv0y.png" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645470/bootstrap_khsmse.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/node_yoadjr.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756641733/express_jlapgs.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/nestjs_yvnui5.png" alt="Nest.js" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756640301/graphql_i6qout.png" alt="GraphQL" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/postgres_uewc0s.png" alt="Postgres" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997593/prisma_wrzimb.png" alt="Prisma" width="40" height="40"/>
+</p>
 
-<h3 align="left">Web Development</h3>
+---
 
-###
+### 🧰 Tools
+<p align="left">
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645483/git_kh2wnh.png" alt="Git" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645465/github_keabr3.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756640301/bash_sox5wb.png" alt="Bash" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/linux_urczss.png" alt="Linux" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997597/ubuntu_eepi6n.png" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756641733/windows_ufqohy.png" alt="Windows" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997568/postman_zkamj7.png" alt="Postman" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752999045/vercel_kxsbyg.png" alt="Vercel" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752999045/railway_janmak.png" alt="Railway" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1759927255/langchain_cdlqgh.png" alt="LangChain" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/n8n_dzuzps.png" alt="n8n" width="40" height="40"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-</div>
+---
 
-###
+### 🤖 IoT
+<p align="left">
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/c_r0sg86.png" alt="C Language" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/arduino_dm9vic.png" alt="Arduino" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1755781809/raspberrypi_ibmo8u.png" alt="Raspberry Pi" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/esp32_mtb0i6.png" alt="Espressif Systems" width="40" height="40"/>
+</p>
 
-<hr />
+---
 
-<h3 align="left">Other Tech</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en" alt="ashdroidcmd" />
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&" alt="ashdroidcmd" />
+</p>

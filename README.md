@@ -1,8 +1,6 @@
-- 💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
-
-- 🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
+💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
+🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
+👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -61,8 +59,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en" alt="ashdroidcmd" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&" alt="ashdroidcmd" />
 </p>

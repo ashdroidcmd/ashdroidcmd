@@ -1,6 +1,6 @@
-💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
-🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
-👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
+- 💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
+- 🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
+- 👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧱 Web Development
+### 🌐 Web Development
 <p align="left">
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645466/html_dit32q.png" alt="HTML" width="40" height="40"/>
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645490/css_wetafm.png" alt="CSS" width="40" height="40"/>
@@ -57,7 +57,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en" alt="ashdroidcmd" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&" alt="ashdroidcmd" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en&theme=tokyonight" alt="ashdroidcmd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&theme=tokyonight" alt="ashdroidcmd" />
 </p>

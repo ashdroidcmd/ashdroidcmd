@@ -59,7 +59,7 @@
 
 ---
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en&theme=nightowl" alt="ashdroidcmd" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&theme=nightowl" alt="ashdroidcmd" />
 </p>

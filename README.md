@@ -49,7 +49,7 @@
 
 ---
 
-### 🤖 IoT
+### 🤖 Embedded Systems
 <p align="left">
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/c_r0sg86.png" alt="C Language" width="40" height="40"/>
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/arduino_dm9vic.png" alt="Arduino" width="40" height="40"/>

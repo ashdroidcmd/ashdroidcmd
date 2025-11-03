@@ -1,5 +1,11 @@
 ![github-header-banner](./github-header-banner.png)
 
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="https://ash-portfoliov3.vercel.app/"> Ash</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=ashdroidcmd" alt="GitHub profile views counter">
+</h1>
+
 - 🌏 Based in **Philippines, Bohol**
 - 💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
 - 🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**

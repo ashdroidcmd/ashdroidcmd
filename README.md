@@ -1,8 +1,9 @@
 ![github-header-banner](./github-header-banner.png)
 
+- 🌏 Based in **Philippines, Bohol**
 - 💼 I’m currently working as **a Jr. Software Engineer at ACE Medical Center - Bohol**
 - 🤝 I’m available for freelance projects. **You can reach me at ashgesite25@gmail.com**
-- 👨‍💻 All of my projects are available at [https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)
+- 👨‍💻 All of my projects are available at **[https://ash-portfoliov3.vercel.app/](https://ash-portfoliov3.vercel.app/)**
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

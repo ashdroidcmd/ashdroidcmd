@@ -13,12 +13,6 @@
 - 🤝 **Open to freelance.** You can reach me at **ashgesite25@gmail.com**
 - 👨‍💻 All of my projects are on my portfolio: **[ash-portfoliov3.vercel.app](https://ash-portfoliov3.vercel.app/)**
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashdroidcmd&theme=tokyonight" alt="ashdroidcmd" />
-  </a>
-</p>
-
 ---
 
 ### 🗂️ What I build
@@ -90,6 +84,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashdroidcmd&show_icons=true&locale=en&theme=nightowl" alt="ashdroidcmd" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashdroidcmd&theme=nightowl" alt="ashdroidcmd" />
 </p>

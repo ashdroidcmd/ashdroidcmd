@@ -17,15 +17,29 @@
 
 ### 🗂️ What I build
 
-| Lane | Highlights |
-|---|---|
-| 🌐 **Web** | Hospital systems (queue management, PhilHealth-integrated provider app, IT asset management), business landing pages, an e-commerce capstone |
-| 🔌 **IoT** | Server Room Monitor: temperature and humidity monitoring with alerts (ESP32, Arduino, C) |
-| 🎮 **Games** | Coming soon |
+<table width="100%">
+  <tr>
+    <th width="120" align="left">Lane</th>
+    <th align="left">Highlights</th>
+  </tr>
+  <tr>
+    <td width="120">🌐&nbsp;<b>Web</b></td>
+    <td>Hospital systems (queue management, PhilHealth-integrated provider app, IT asset management), business landing pages, an e-commerce capstone</td>
+  </tr>
+  <tr>
+    <td width="120">🔌&nbsp;<b>IoT</b></td>
+    <td>Server Room Monitor: temperature and humidity monitoring with alerts (ESP32, Arduino, C)</td>
+  </tr>
+  <tr>
+    <td width="120">🎮&nbsp;<b>Games</b></td>
+    <td>Coming soon</td>
+  </tr>
+</table>
 
 ---
 
 ### 🌐 Web Development
+
 <p align="left">
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645466/html_dit32q.png" alt="HTML" title="HTML" width="40" height="40"/>
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645490/css_wetafm.png" alt="CSS" title="CSS" width="40" height="40"/>
@@ -46,6 +60,7 @@
 ---
 
 ### 🎮 Game Development
+
 <p align="left">
   <img src="https://cdn.simpleicons.org/unity/000000/ffffff" alt="Unity" title="Unity" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/blender" alt="Blender" title="Blender" width="40" height="40"/>
@@ -54,6 +69,7 @@
 ---
 
 ### 🤖 IoT & Embedded Systems
+
 <p align="left">
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/c_r0sg86.png" alt="C" title="C" width="40" height="40"/>
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/arduino_dm9vic.png" alt="Arduino" title="Arduino" width="40" height="40"/>
@@ -64,6 +80,7 @@
 ---
 
 ### 🧰 Tools
+
 <p align="left">
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645483/git_kh2wnh.png" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645465/github_keabr3.png" alt="GitHub" title="GitHub" width="40" height="40"/>

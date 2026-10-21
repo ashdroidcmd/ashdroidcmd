@@ -41,20 +41,18 @@
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645466/html_dit32q.png" alt="HTML" title="HTML" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645490/css_wetafm.png" alt="CSS" title="CSS" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645467/js_qgtoxu.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1755781809/typescript_gx6ce7.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645477/react_wxsvsx.png" alt="React" title="React" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645486/sass_bygxe3.png" alt="SASS" title="SASS" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645481/tailwind_bicv0y.png" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645470/bootstrap_khsmse.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/node_yoadjr.png" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756641733/express_jlapgs.png" alt="Express.js" title="Express.js" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/nestjs_yvnui5.png" alt="Nest.js" title="Nest.js" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756640301/graphql_i6qout.png" alt="GraphQL" title="GraphQL" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/postgres_uewc0s.png" alt="Postgres" title="Postgres" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997593/prisma_wrzimb.png" alt="Prisma" title="Prisma" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/000000/ffffff" alt="Express.js" title="Express.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nestjs" alt="Nest.js" title="Nest.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql" alt="Postgres" title="Postgres" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/prisma/000000/ffffff" alt="Prisma" title="Prisma" width="40" height="40"/>
 </p>
 
 ---
@@ -71,10 +69,10 @@
 ### 🤖 IoT & Embedded Systems
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/c_r0sg86.png" alt="C" title="C" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/arduino_dm9vic.png" alt="Arduino" title="Arduino" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1755781809/raspberrypi_ibmo8u.png" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1753007784/esp32_mtb0i6.png" alt="ESP32" title="ESP32" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/c" alt="C" title="C" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/arduino" alt="Arduino" title="Arduino" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/espressif" alt="ESP32" title="ESP32" width="40" height="40"/>
 </p>
 
 ---
@@ -82,19 +80,16 @@
 ### 🧰 Tools
 
 <p align="left">
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645483/git_kh2wnh.png" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1749645465/github_keabr3.png" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756640301/bash_sox5wb.png" alt="Bash" title="Bash" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997567/linux_urczss.png" alt="Linux" title="Linux" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997597/ubuntu_eepi6n.png" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1756641733/windows_ufqohy.png" alt="Windows" title="Windows" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752997568/postman_zkamj7.png" alt="Postman" title="Postman" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752999045/vercel_kxsbyg.png" alt="Vercel" title="Vercel" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/dmkri61cj/image/upload/v1752999045/railway_janmak.png" alt="Railway" title="Railway" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/000000/ffffff" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" alt="Vercel" title="Vercel" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/railway/000000/ffffff" alt="Railway" title="Railway" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/claude" alt="Claude" title="Claude" width="40" height="40"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png">
-    <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="ChatGPT" title="ChatGPT" width="40" height="40"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/openai_dark.svg">
+    <img src="https://svgl.app/library/openai.svg" alt="ChatGPT" title="ChatGPT" width="40" height="40"/>
   </picture>
 </p>
 
